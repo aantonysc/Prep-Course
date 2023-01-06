@@ -1,0 +1,5 @@
+Objetos, propiedades, metodos, bucle for_in, notacion de puntos vs notacion de corchetes:
+objetos puede ser como por ejemplo un auto que es un objeto, sus propiedades puede ser el color, el motor, sus aros,llantas etc.
+Un metodo es una función la cual es propiedad de un objeto
+for...in es para iterar sobre todas las propiedades enumerables de un objeto.
+notacion de puntos o corchetes es como un atajo de hacerlo un poco mas rapido.
