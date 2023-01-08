@@ -1,0 +1,4 @@
+prototype
+protopipo es un objeto que busca en otros objetos para compartir metodos , funciones.
+contructores de (clases)
+es una fabrica de objetos en la que se puede crear objetos con sus propiedades.
