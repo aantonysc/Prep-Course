@@ -1,0 +1,37 @@
+#container{
+  
+   width: 750px;
+   height: 850px;
+   background: #F69153;
+   margin: auto;
+}
+html{
+    background: #EFEDEB;
+}
+p{
+    text-align: justify;
+}
+
+#div1{
+    float: left;
+    width: 250px;
+    height: 850px;
+    background: #FDC88B;
+    text-align: left;
+}
+img{
+    width: 250px;
+    height: 250px;   
+}
+#div2{
+
+    text-align: center;
+    border: groove;
+    width: 750px;
+    height: 850px;
+    background:#FFFFFF;
+}
+#ti{
+    text-align: center;
+    
+}
